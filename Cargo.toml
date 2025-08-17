@@ -1,6 +1,8 @@
 [package]
 name = "nobom"
 version = "0.1.0"
+description = "A simple utility to remove UTF-8 BOM (Byte Order Mark) from stdin and write to stdout"
+license = "GPL-3.0"
 edition = "2024"
 
 [dependencies]
